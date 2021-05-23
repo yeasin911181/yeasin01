@@ -22,7 +22,7 @@ print("")
 print("I Fuck You ")
 
 
-print("        -cracker)
+print("        -cracker")
 
 print("     now you can nothing")
 
