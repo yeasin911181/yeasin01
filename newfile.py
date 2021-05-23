@@ -7,7 +7,7 @@ print("")
 print("")
 print("")
 print("")
-a = input("what is your name")
+a = input("what is your name: ")
 
 print("")
 print("")
