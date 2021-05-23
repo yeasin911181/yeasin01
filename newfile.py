@@ -13,7 +13,7 @@ print("I Fuck You ")
 
 print("         -yeasin")
 
-print("     now you can nothin")
+print("     now you can nothing")
 
 print("          you are a fuckboy")
 
